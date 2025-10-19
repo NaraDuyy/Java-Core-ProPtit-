@@ -105,6 +105,7 @@ public class Main {
     }
 }
 ```
+- Java sẽ có thêm có thêm mảng răng cưa (Tức là ma trận nhưng mỗi dòng có thể có các số lượng ký tự khác nhau)
 ### g. Class và Object
 #### g1. Object (Đối tượng)
 - Đối tượng trong java là một thực thể được tạo ra từ class bằng new (và mỗi đối tượng sẽ có những đặc tính riêng)
