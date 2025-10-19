@@ -119,7 +119,6 @@ public class Main {
 - Constructor phải có tên cùng tên với class và không có giá trị trả về (return)
 - Cách khai báo:
 ``` java
-// Create a Main class
 public class Main {
   int x;
 
