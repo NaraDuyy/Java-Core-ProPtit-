@@ -113,7 +113,7 @@ public class Main {
 #### g2. Claas 
 - Class trong java có thể được như một mẫu thiết kế, khi 
 #### g3. Cách khai báo
-![alt text](image-1.png)
+![alt text](image-1.png)    
 ![alt text](image-2.png)
 ### h. Constructor 
 - Contrusctor trong Java là một mảng đặc biệt. Và sẽ được gọi khi một object của một class được tạo ra. Và có thể sử dụng để thêm giá trị ban đầu
@@ -147,6 +147,7 @@ public class Main {
 
 ### h. Getter, Setter
 - Là phương pháp dùng để có thể gọi/sửa được giá trị của một biến private
+- Có thể dùng để toàn quyền tùy chỉnh trong getter, setter (vd: chuẩn hóa)
 - Cách khai báo:
 ``` java
 package a;
